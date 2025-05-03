@@ -1,0 +1,5 @@
+/.ipynb_checkpoints
+/dataset
+/.idea
+fft_result_dataset.p
+fft_model2.h5
